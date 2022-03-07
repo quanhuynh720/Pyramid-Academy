@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Combat.fight();
+        Land.loadHumanIntoGrid();
+        Land.loadGoblinIntoGrid();
+        Land.movement();
     }
 }

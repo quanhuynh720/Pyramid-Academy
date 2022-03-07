@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Goblin {
 
-    private int health = 30;
+    private int health = 20;
     private int strength = 10;
     private int intelligence = 5;
     private int speed = 1;

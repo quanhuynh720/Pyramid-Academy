@@ -2,9 +2,9 @@ import java.util.ArrayList;
 
 public class Human {
 
-    private int health = 50;
+    private int health = 30;
     private int strength = 20;
-    private int intelligence = 30;
+    private int intelligence = 20;
     private int speed = 1;
 
     public int getHealth() {
